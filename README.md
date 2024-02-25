@@ -29,3 +29,8 @@ Embarking on this project was an incredibly fun challenge. It was my first time 
 ---
 
 Enjoy exploring the world of movies with a neon glow. Dive into the Movie Recommendation App and let it be your guide to endless cinematic adventures.
+
+## Install Dependecies
+- npm install
+- npm install axios
+- npm install @sveltejs/adapter-auto svelte-preprocess
