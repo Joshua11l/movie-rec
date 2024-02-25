@@ -9,14 +9,14 @@ The Movie Recommendation App is a visually captivating tool designed to enhance 
 
 - **Search Functionality**: Easily search for movies by title from the home page.
 - **Genre-based Discovery**: Navigate through dynamic tabs to find movies by genre, making it simple to explore films that align with your preferences.
-- **Responsive Design**: Crafted with Bootstrap, the app ensures a seamless experience on devices of all sizes, complemented by a neon-inspired aesthetic.
+- **Responsive Design**: Crafted with Bootstrap and CSS, the app ensures a seamless experience on devices of all sizes, complemented by a neon-inspired aesthetic.
 
 ## Technologies Used
 
 - **Frontend**: HTML, JavaScript, TypeScript
 - **Framework**: SvelteKit, enabling server-side rendering and client-side navigation for a smooth user experience.
 - **API**: The Movie Database (TMDB) API for real-time movie data.
-- **Styling**: Bootstrap for responsive design and neon-themed UI components.
+- **Styling**: Bootstrap and CSS for responsive design and neon-themed UI components.
 
 ## Journey and Inspiration
 
