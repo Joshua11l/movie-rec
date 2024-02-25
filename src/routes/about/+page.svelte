@@ -38,7 +38,7 @@
               <li><strong>Frontend:</strong> HTML, JavaScript, TypeScript</li>
               <li><strong>Framework:</strong> SvelteKit for server-side rendering and client-side navigation</li>
               <li><strong>API:</strong> The Movie Database (TMDB) for fetching movie data</li>
-              <li><strong>Styling:</strong> Bootstrap for responsive design and attractive UI components, inspired by neon aesthetics</li>
+              <li><strong>Styling:</strong> Bootstrap and CSS for responsive design and attractive UI components, inspired by neon aesthetics</li>
             </ul>
             <p class="mt-auto text-white">Built using modern technologies for a seamless experience.</p>
           </div>
@@ -47,7 +47,7 @@
     </div>
   
     <div class="text-center" in:fade={{ duration: 1500, delay: 1500 }}>
-      <p class="mt-4">Embarking on this project for the FullyHacks Hackathon was an extremly fun journey. Not only was it my first time using Svelte, but it also challenged me to incorporate a neon theme into the app's design. The goal was to make movie discovery as easy and enjoyable as possible. By leveraging the powerful TMDB API, I was able to provide up-to-date information and a wide variety of movies to explore. Whether you're in the mood for a classic drama or the latest big hit, my app is here to guide you to your next watch.</p>
+      <p class="mt-4">Embarking on this project for the FullyHacks Hackathon was an extremely fun journey. Not only was it my first time using Svelte, but it also challenged me to incorporate a neon theme into the app's design. The goal was to make movie discovery as easy and enjoyable as possible. By leveraging the powerful TMDB API, I was able to provide up-to-date information and a wide variety of movies to explore. Whether you're in the mood for a classic drama or the latest big hit, my app is here to guide you to your next watch.</p>
     </div>
 
     <div class="text-center mt-4">
